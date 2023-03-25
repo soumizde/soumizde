@@ -1,4 +1,4 @@
-<img src = "banner.png">]
+<img src = "banner.png">
 <h1 align="center">Hey, I'm Soumi De</h1>
 <h3 align="center">UI/UX Designer | Developer</h3>
 <img src = "https://www.digitalutilization.com/static/graphic/animation_500_ksincne2.gif" align ="right" width = "400">
