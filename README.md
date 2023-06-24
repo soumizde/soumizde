@@ -11,7 +11,7 @@
 
 - Know more about my work: [https://drive.google.com/file/d/1JLot0vMUK80sY6NSCL6_M6hlW1KN_CYY/view?usp=drive_link](https://drive.google.com/file/d/1JLot0vMUK80sY6NSCL6_M6hlW1KN_CYY/view?usp=drive_link)
 
-- Fun fact **I am a passionate photographer and culinary connoisseur**
+- Fun fact, **I am a passionate photographer and culinary connoisseur**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
