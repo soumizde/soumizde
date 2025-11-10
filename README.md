@@ -1,13 +1,7 @@
 <h1 align="center">Hi I am Soumi De</h1>
 <h3 align="center">Developer | UI/UX Designer</h3>
 
-- Learn more about me: [https://soumizde.github.io/desoumi](https://soumizde.github.io/desoumi)
-
 - Read my in depth blogs: [https://soumizde.medium.com](https://soumizde.medium.com)
-
-- Reach out to me: **soumizde@gmail.com**
-
-- Know more about my work: [https://drive.google.com/file/d/1JLot0vMUK80sY6NSCL6_M6hlW1KN_CYY/view?usp=drive_link](https://drive.google.com/file/d/1JLot0vMUK80sY6NSCL6_M6hlW1KN_CYY/view?usp=drive_link)
 
 - Fun fact **I am a passionate photographer and culinary connoisseur**
 
