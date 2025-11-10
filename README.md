@@ -1,9 +1,4 @@
 <h1 align="center">Hi I am Soumi De</h1>
-<h3 align="center">Developer | UI/UX Designer</h3>
-
-- Read my in depth blogs: [https://soumizde.medium.com](https://soumizde.medium.com)
-
-- Fun fact **I am a passionate photographer and culinary connoisseur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
