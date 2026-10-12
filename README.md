@@ -6,20 +6,10 @@
 
 I was in human data before it was sexy. Most of my time goes into starting things: a new line of business, a team that doesn't exist yet. I get it working, then scale it or hand it to someone who'll run it well.
 
-### Right now
-
-- **Multilingual:** $0 → $100M ARR in one quarter, across 31 languages, on track for $250M.
-- **International AI safety:** building the red teaming team that will double that revenue, and taking it beyond the US.
-- **Operator platform:** roadmapping it on one belief. Analysis and quality checks are engineering problems, not vibes.
-
 ### Quoted in
 
 - **Forbes** · [Powering Talent Recruitment With AI](https://www.forbes.com/sites/johnwerner/2025/05/27/powering-talent-recruitment-with-ai/) (May 2025)
 - **The Economic Times** · [Indian roots of a $2-bn Silicon Valley platform](https://drive.google.com/file/d/1Bj3C3zonnPaHv4AIFsNlS98uR-JjWkzZ/view?usp=sharing)
-
-### Before all that
-
-Hundreds of hackathons in my first year of Computer Science, paid for with the prize money from the last one. A few of the projects from that era are below.
 
 ### Off the clock
 
